@@ -4,7 +4,7 @@ import json
 from datetime import datetime
 
 # ========== ТВОИ ДАННЫЕ ==========
-TOKEN = '7502552464:AAGTZ_mCmr8KNNQbv0RenYuwYfoIwZvDKtE'
+TOKEN = '7502552464:BOT_TOKEN'
 YOUR_ID = 8527745552  
 # =================================
 
@@ -120,4 +120,5 @@ def default(message):
 
 # Запуск бота
 print("🤖 Бот MAYBE BABY NFT ЗАПУЩЕН!")
+
 bot.infinity_polling()
